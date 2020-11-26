@@ -1,0 +1,261 @@
+[
+    {
+        "Maker": "chevrolet",
+        "Miles_per_Gallon": 20.006818181818183,
+        "Displacement": 129.77272727272728,
+        "Horsepower": 114.11363636363636,
+        "Acceleration": 14.447727272727274
+    },
+    {
+        "Maker": "buick",
+        "Miles_per_Gallon": 19.182352941176468,
+        "Displacement": 178.23529411764707,
+        "Horsepower": 136.41176470588235,
+        "Acceleration": 14.700000000000003
+    },
+    {
+        "Maker": "plymouth",
+        "Miles_per_Gallon": 21.025000000000002,
+        "Displacement": 83.1875,
+        "Horsepower": 113.40625,
+        "Acceleration": 14.715624999999994
+    },
+    {
+        "Maker": "amc",
+        "Miles_per_Gallon": 17.617241379310343,
+        "Displacement": 104.03448275862068,
+        "Horsepower": 112.82758620689656,
+        "Acceleration": 15.117241379310347
+    },
+    {
+        "Maker": "ford",
+        "Miles_per_Gallon": 18.950943396226418,
+        "Displacement": 108.49056603773585,
+        "Horsepower": 107.16981132075472,
+        "Acceleration": 14.454716981132075
+    },
+    {
+        "Maker": "pontiac",
+        "Miles_per_Gallon": 20.0125,
+        "Displacement": 44.5,
+        "Horsepower": 136.9375,
+        "Acceleration": 14.081249999999999
+    },
+    {
+        "Maker": "citroen",
+        "Miles_per_Gallon": 0,
+        "Displacement": -133,
+        "Horsepower": 115,
+        "Acceleration": 17.5
+    },
+    {
+        "Maker": "dodge",
+        "Miles_per_Gallon": 22.060714285714283,
+        "Displacement": 138.73214285714286,
+        "Horsepower": 117.17857142857143,
+        "Acceleration": 14.460714285714284
+    },
+    {
+        "Maker": "toyota",
+        "Miles_per_Gallon": 28.372000000000003,
+        "Displacement": 78.52,
+        "Horsepower": 83.44,
+        "Acceleration": 16.099999999999998
+    },
+    {
+        "Maker": "datsun",
+        "Miles_per_Gallon": 31.11304347826087,
+        "Displacement": 88.56521739130434,
+        "Horsepower": 83.82608695652173,
+        "Acceleration": 16.40869565217391
+    },
+    {
+        "Maker": "volkswagen",
+        "Miles_per_Gallon": 27.2875,
+        "Displacement": 48.0625,
+        "Horsepower": 64.5,
+        "Acceleration": 17.16875
+    },
+    {
+        "Maker": "peugeot",
+        "Miles_per_Gallon": 23.687499999999996,
+        "Displacement": 77,
+        "Horsepower": 88,
+        "Acceleration": 19.55
+    },
+    {
+        "Maker": "audi",
+        "Miles_per_Gallon": 26.714285714285715,
+        "Displacement": 81.28571428571429,
+        "Horsepower": 86.71428571428571,
+        "Acceleration": 15.942857142857141
+    },
+    {
+        "Maker": "saab",
+        "Miles_per_Gallon": 19.119999999999997,
+        "Displacement": 76,
+        "Horsepower": 109,
+        "Acceleration": 15.220000000000002
+    },
+    {
+        "Maker": "bmw",
+        "Miles_per_Gallon": 23.75,
+        "Displacement": 0,
+        "Horsepower": 111.5,
+        "Acceleration": 12.65
+    },
+    {
+        "Maker": "chevy",
+        "Miles_per_Gallon": 18,
+        "Displacement": 54,
+        "Horsepower": 142.33333333333334,
+        "Acceleration": 2.5333333333333337
+    },
+    {
+        "Maker": "hi",
+        "Miles_per_Gallon": 9,
+        "Displacement": 304,
+        "Horsepower": 193,
+        "Acceleration": 18.5
+    },
+    {
+        "Maker": "mercury",
+        "Miles_per_Gallon": 19.11818181818182,
+        "Displacement": 235.8181818181818,
+        "Horsepower": 119.81818181818181,
+        "Acceleration": 14.963636363636363
+    },
+    {
+        "Maker": "opel",
+        "Miles_per_Gallon": 25.75,
+        "Displacement": 53.25,
+        "Horsepower": 81,
+        "Acceleration": 15.225
+    },
+    {
+        "Maker": "fiat",
+        "Miles_per_Gallon": 28.9125,
+        "Displacement": 70.125,
+        "Horsepower": 73.375,
+        "Acceleration": 15.65
+    },
+    {
+        "Maker": "oldsmobile",
+        "Miles_per_Gallon": 21.1,
+        "Displacement": 276.6,
+        "Horsepower": 122,
+        "Acceleration": 16.02
+    },
+    {
+        "Maker": "chrysler",
+        "Miles_per_Gallon": 17.266666666666666,
+        "Displacement": 330.1666666666667,
+        "Horsepower": 153.66666666666666,
+        "Acceleration": 13.300000000000002
+    },
+    {
+        "Maker": "mazda",
+        "Miles_per_Gallon": 30.859999999999996,
+        "Displacement": 89.7,
+        "Horsepower": 77.7,
+        "Acceleration": 16.439999999999998
+    },
+    {
+        "Maker": "volvo",
+        "Miles_per_Gallon": 21.116666666666667,
+        "Displacement": 133.5,
+        "Horsepower": 104.16666666666667,
+        "Acceleration": 15.566666666666668
+    },
+    {
+        "Maker": "renault",
+        "Miles_per_Gallon": 32.88,
+        "Displacement": 92.2,
+        "Horsepower": 42,
+        "Acceleration": 17
+    },
+    {
+        "Maker": "toyouta",
+        "Miles_per_Gallon": 23,
+        "Displacement": 120,
+        "Horsepower": 97,
+        "Acceleration": 14.5
+    },
+    {
+        "Maker": "maxda",
+        "Miles_per_Gallon": 26.05,
+        "Displacement": 78,
+        "Horsepower": 77.5,
+        "Acceleration": 14.35
+    },
+    {
+        "Maker": "honda",
+        "Miles_per_Gallon": 33.66428571428571,
+        "Displacement": 97.92857142857143,
+        "Horsepower": 68.14285714285714,
+        "Acceleration": 16.064285714285713
+    },
+    {
+        "Maker": "subaru",
+        "Miles_per_Gallon": 30.525,
+        "Displacement": 99.75,
+        "Horsepower": 73.5,
+        "Acceleration": 16.925
+    },
+    {
+        "Maker": "chevroelt",
+        "Miles_per_Gallon": 16,
+        "Displacement": 250,
+        "Horsepower": 105,
+        "Acceleration": 18.5
+    },
+    {
+        "Maker": "capri",
+        "Miles_per_Gallon": 25,
+        "Displacement": 140,
+        "Horsepower": 92,
+        "Acceleration": 14.9
+    },
+    {
+        "Maker": "vw",
+        "Miles_per_Gallon": 39.016666666666666,
+        "Displacement": 92.33333333333333,
+        "Horsepower": 60.833333333333336,
+        "Acceleration": 18.816666666666666
+    },
+    {
+        "Maker": "mercedes",
+        "Miles_per_Gallon": 23.96666666666667,
+        "Displacement": 165.66666666666666,
+        "Horsepower": 88,
+        "Acceleration": 19.53333333333333
+    },
+    {
+        "Maker": "cadillac",
+        "Miles_per_Gallon": 19.75,
+        "Displacement": 350,
+        "Horsepower": 152.5,
+        "Acceleration": 14.75
+    },
+    {
+        "Maker": "vokswagen",
+        "Miles_per_Gallon": 29.8,
+        "Displacement": 89,
+        "Horsepower": 62,
+        "Acceleration": 15.3
+    },
+    {
+        "Maker": "triumph",
+        "Miles_per_Gallon": 35,
+        "Displacement": 122,
+        "Horsepower": 88,
+        "Acceleration": 15.1
+    },
+    {
+        "Maker": "nissan",
+        "Miles_per_Gallon": 36,
+        "Displacement": 120,
+        "Horsepower": 88,
+        "Acceleration": 14.5
+    }
+]

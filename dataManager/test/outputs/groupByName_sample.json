@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "chevrolet chevelle malibu",
+        "Miles_per_Gallon": 18,
+        "Displacement": 307,
+        "Horsepower": 130,
+        "Acceleration": 12
+    },
+    {
+        "Name": "chevrolet malibu",
+        "Miles_per_Gallon": 18,
+        "Displacement": 307,
+        "Horsepower": 200,
+        "Acceleration": 20
+    },
+    {
+        "Name": "buick skylark 320",
+        "Miles_per_Gallon": 15,
+        "Displacement": 0,
+        "Horsepower": 215,
+        "Acceleration": 16
+    },
+    {
+        "Name": "plymouth satellite",
+        "Miles_per_Gallon": 18,
+        "Displacement": -318,
+        "Horsepower": 150,
+        "Acceleration": 11
+    },
+    {
+        "Name": "amc rebel sst",
+        "Miles_per_Gallon": 16,
+        "Displacement": -304,
+        "Horsepower": 150,
+        "Acceleration": 12
+    }
+]

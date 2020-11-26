@@ -1,0 +1,26 @@
+[
+    {
+        "Maker": "buick",
+        "Name": "buick skylark 320",
+        "Miles_per_Gallon": 15,
+        "Cylinders": 8,
+        "Displacement": -350,
+        "Horsepower": 165,
+        "Weight_in_lbs": 3693,
+        "Acceleration": 11.5,
+        "Year": "1970-01-01",
+        "Origin": "USA"
+    },
+    {
+        "Maker": "buick",
+        "Name": "buick skylark 320",
+        "Miles_per_Gallon": 15,
+        "Cylinders": 8,
+        "Displacement": 350,
+        "Horsepower": 265,
+        "Weight_in_lbs": 3693,
+        "Acceleration": 20.5,
+        "Year": "1970-01-01",
+        "Origin": "USA"
+    }
+]

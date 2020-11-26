@@ -1,0 +1,26 @@
+[
+    {
+        "Maker": "chevrolet",
+        "Cylinders": 8
+    },
+    {
+        "Maker": "chevrolet",
+        "Cylinders": 3
+    },
+    {
+        "Maker": "buick",
+        "Cylinders": 8
+    },
+    {
+        "Maker": "buick",
+        "Cylinders": 8
+    },
+    {
+        "Maker": "plymouth",
+        "Cylinders": 8
+    },
+    {
+        "Maker": "amc",
+        "Cylinders": 8
+    }
+]
