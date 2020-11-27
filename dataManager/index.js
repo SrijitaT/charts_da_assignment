@@ -51,6 +51,7 @@ class DataManager {
     */
 
     select(condition){
+    try{
         let logicalPattern = /[{&&|||}]/g,expObj = null, hasLogicalOp = false;
         //compilation of the expression will be done once,and condition to be check inside filter
         if(logicalPattern.test(condition)){
@@ -65,6 +66,11 @@ class DataManager {
             return computeLogicalExpression(expObj,data);
         })
         return this.getInstance(filteredData);
+    }
+    catch(err){
+        console.log("Please enter correct condition format");
+        return this.getInstance({data:[]});
+    }
     }
 
     project(cols){
